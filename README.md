@@ -1,0 +1,2 @@
+# MultilabelOnMissingLabels
+This work was part of an assessment process by an ML company(Aimonk) for the recruitment of an ML based position. The assignment is about doing deep learning Multilabel classification on a blackbox dataset with missing labels using transfer learning from a pretrained model(we choose resnet for that). The dataset's labels are just named as attr1, attr2, att3 and attr4 without much explaination of what they are representing in the dataset image given.
